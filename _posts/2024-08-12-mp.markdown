@@ -1,0 +1,13 @@
+---
+layout:     post
+title:      "Connecting to AWS IoT Core for LoRaWAN"
+date:       2024-8-12
+author:     "Mcworks64"
+header-img: "img/post-bg-ios9-web.jpg"
+catalog:    true
+tags:
+    - LoRaWAN
+    - AWS
+---
+
+1. setting up IAM role to allow the Cconfiguration and Update Server (CUPS) to manage gateway credentials
